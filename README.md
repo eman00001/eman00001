@@ -16,7 +16,7 @@ Hello! I'm Emmanuel, a Computer Science student at Dalhousie University with a p
 I’m constantly expanding my knowledge in software development and system optimization. Right now, I’m exploring advanced Python programming and diving into C programming.  
 
 ### 🚀 Goals  
-My ultimate aim is to inspire the next generation to value knowledge, hard work, and curiosity as tools for success.  
+My ultimate aim is to inspire others to value knowledge, hard work, and curiosity as tools for success.  
 
 Let’s connect and create something amazing!  
 
