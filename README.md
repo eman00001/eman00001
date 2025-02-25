@@ -5,7 +5,7 @@ Hello! I'm Emmanuel, a Computer Science student at Dalhousie University with a p
 
 ### 🔧 Skills & Technologies  
 - **Programming Languages:** Java, Python, C/C#, SQL
-- **Tools & Platforms:** Git/GitHub, Linux 
+- **Tools & Platforms:** Git/GitHub, Linux, VScode
 - **Interests:** Software Development, Cybersecurity, AI  
 
 ### 🌟 Highlights  
@@ -13,7 +13,7 @@ Hello! I'm Emmanuel, a Computer Science student at Dalhousie University with a p
 - Recently developed a Python program to clean and organize my DAW project files.  
 
 ### 🌱 What I'm Learning  
-I’m constantly expanding my knowledge in software development and system optimization. Right now, I’m exploring advanced Python programming and diving into C programming.  
+I’m constantly expanding my knowledge in software development and system optimization. Right now, I’m exploring advanced Python programming and diving deeper into C programming.  
 
 ### 🚀 Goals  
 My ultimate aim is to inspire others to value knowledge, hard work, and curiosity as tools for success.  
