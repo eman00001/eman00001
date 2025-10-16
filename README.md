@@ -14,8 +14,6 @@ Hello! I'm Emmanuel, a Computer Science student at Dalhousie University with a p
 - Former **Coding Mentor** at Imhotep's Legacy Academy, inspiring students to embrace tech and critical thinking.  
 - Developed a Python program to clean and organize my DAW project files.
 
-Let’s connect and create something amazing!  
-
 <!---  
 eman00001/eman00001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
 You can click the Preview link to take a look at your changes.  
