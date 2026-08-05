@@ -1,5 +1,5 @@
 ## ⛧ emmanuel yusuff  
-<img src="./saiki_grayscale.gif" width="500"/>
+<img src="./res/2saiki_grayscale.gif" width="500"/>
 
 software developer  
 
