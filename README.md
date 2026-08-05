@@ -1,20 +1,23 @@
-## Emmanuel Yusuff  
-**Computer Science Student | Software Dev | Cybersec Enthusiast**  
+## emmanuel yusuff
 
-Hello! I'm Emmanuel, a Computer Science student at Dalhousie University with a passion for building efficient systems and solving challenging problems. My journey combines logical thinking, creative solutions, and a love for learning, driving me to create impactful projects.  
+software developer
 
-### Skills & Technologies  
-- **Programming Languages:** Java, Python, C/C#, PHP, JS
-- **Tools & Platforms:** Git/GitHub, Linux, VScode, Vim, Ghidra, Burp Suite, Wireshark
-- **Interests:** Software Development, Cybersecurity, AI  
+hi, i'm eman. i build backend systems, web applications, and developer tools with a focus on scalable software and clean architecture. i'm currently exploring cloud infrastructure, distributed systems, and computer graphics.
 
-### Highlights
-- Current Developer intern at SimplyCast
-- Developed Python extensions/addons for Blender (3D modelling software) to enhance my workflow
-- Former **Coding Mentor** at Imhotep's Legacy Academy, inspiring students to embrace tech and critical thinking.  
-- Developed a Python program to clean and organize my DAW project files.
+### tech stack
 
-<!---  
-eman00001/eman00001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.  
---->  
+* **languages:** java, python, c/c#, javascript, typescript, php, sql
+* **frameworks:** spring boot, react, react native, expo, node.js, express, firebase
+* **cloud & devops:** aws, docker, git, github
+* **tools:** linux, vscode, vim, blender, ghidra, burp suite, wireshark, ffmpeg
+
+### experience
+
+* software developer at simplycast
+* former coding mentor at imhotep's legacy academy
+* built blender addons in python to streamline 3d workflows
+* developed tools to automate and organize digital audio workstation project management
+
+### interests
+
+backend engineering • cloud computing • computer graphics • music • cybersecurity • ai
