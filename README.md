@@ -3,9 +3,8 @@
 
 software developer  
 
-```
-> hi, i'm eman. i build backend systems, web applications, and developer tools with a focus on scalable software and clean architecture. i'm currently exploring cloud infrastructure, distributed systems, and computer graphics.
-```
+
+`> hi, i'm eman. i build backend systems, web applications, and developer tools with a focus on scalable software and clean architecture. i'm currently exploring cloud infrastructure, distributed systems, and computer graphics.`
 
 ### tech stack ✦. ── ╾━╤デ╦︻  
 
@@ -28,6 +27,6 @@ software developer
 
 ### interests ✦. ── ╾━╤デ╦︻  
 
-backend engineering • cloud computing • computer graphics • music • cybersecurity • ai
+`> backend engineering • cloud computing • computer graphics • music • cybersecurity • ai`
 
 
