@@ -1,5 +1,7 @@
 ## ⛧ emmanuel yusuff  
-<img src="./res/2saiki_grayscale.gif" width="500"/>
+<div style="width: 100%; height: 200px; overflow: hidden;">
+  <img src="./res/deaththekid2.gif" style="width: 100%; object-fit: cover; object-position: center;">
+</div>
 
 software developer  
 
