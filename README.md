@@ -1,5 +1,5 @@
 ## ⛧ emmanuel yusuff  
-<img src="./assets/terminal.gif" width="500"/>
+<img src="./death-the.gif" width="500"/>
 
 software developer  
 
